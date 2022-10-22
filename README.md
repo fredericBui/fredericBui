@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Symfony, JS & PHP**
 
-- 📫 How to reach me **https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/**
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/)
 
 
 ### 👨‍💻 Programming and markup languages
