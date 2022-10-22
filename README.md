@@ -52,9 +52,9 @@
   <summary>💻 GitHub Profile Stats</summary>
   <div>
     <img src = "https://github-readme-stats.vercel.app/api?username=fredericbui&show_icons=true&theme=dark&hide_border=true" width = 400>
-    <img src = "https://github-readme-streak-stats.herokuapp.com?user=fredericbui&theme=dark&hide_border=true" width = 400>
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=fredericbui&theme=dark&hide_border=true"  width = 400>
   </div>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=fredericbui&show_icons=true&locale=en&layout=compact" alt="fredericbui" /> 
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=fredericbui&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="fredericbui" width = 400 /> 
   
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
