@@ -17,8 +17,9 @@
 
 <details> 
     <summary>💻 Algorythm solver </summary>
+    </br>
     <a href="https://www.codewars.com/users/fredericBui">
-        <img src="https://www.codewars.com/users/fredericBui/badges/large?logo=true">
+        <img src="https://www.codewars.com/users/fredericBui/badges/small">
     </a>  
 </details>
     
