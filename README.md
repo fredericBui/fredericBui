@@ -69,8 +69,8 @@
     <div display="flex">
         <img src="https://picsum.photos/seed/sun/300"/>
         <div>
-            <img src="https://picsum.photos/seed/cloud/150" width = 500 />
-            <img src="https://picsum.photos/seed/thunder/150"  width = 500 />
+            <img src="https://picsum.photos/seed/cloud/150" width = 400 />
+            <img src="https://picsum.photos/seed/thunder/150"  width = 400 />
         </div>
     </div>
 </div>
