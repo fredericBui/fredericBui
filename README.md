@@ -35,7 +35,7 @@
 
 <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Test](https://ytcards.demolab.com/?id=6u9BrDaSHJc&title=Automatically+Deploy+to+Fly.io+with+GitHub+Actions&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312 "Automatically Deploy to Fly.io with GitHub Actions")]([https://www.youtube.com/watch?v=6u9BrDaSHJc](https://www.youtube.com/watch?v=y9kT5W3gUi4))
+[![Test](https://ytcards.demolab.com/?id=6u9BrDaSHJc&title=Automatically+Deploy+to+Fly.io+with+GitHub+Actions&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312 "Test")]([[https://www.youtube.com/watch?v=6u9BrDaSHJc](https://www.youtube.com/watch?v=y9kT5W3gUi4)](https://www.youtube.com/watch?v=y9kT5W3gUi4))
 <!-- END YOUTUBE-CARDS -->
 <!-- prettier-ignore-end -->
 
