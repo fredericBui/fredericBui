@@ -35,7 +35,7 @@
 
 <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Test](https://ytcards.demolab.com/?id=6u9BrDaSHJc&title=Automatically+Deploy+to+Fly.io+with+GitHub+Actions&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312 "Test")]
+[![Test](https://ytcards.demolab.com/?id=6u9BrDaSHJc&title=Automatically+Deploy+to+Fly.io+with+GitHub+Actions&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312 "Test")](https://www.youtube.com/watch?v=6u9BrDaSHJc)
 <!-- END YOUTUBE-CARDS -->
 <!-- prettier-ignore-end -->
 
