@@ -69,7 +69,7 @@
 
 <div align="center">
 <h3>Refresh this page to see a new picture</h3>
-<img src="https://picsum.photos/200/300?random=1"/>
+<img src="https://source.unsplash.com/random/300x200"/>
 </div>
 
 <p align="center">
