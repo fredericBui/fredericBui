@@ -10,15 +10,13 @@
 
 - 🌱 I’m currently learning **Kotlin & Swift**
 
-- 👯 I’m looking to collaborate on **web 3 project**
+- 🤝 I’m looking to collaborate on **web 3 project**
 
 - 👨‍💻 All of my projects are available at [https://from-js.fr/](https://from-js.fr/)
 
 - 💬 Ask me about **Symfony, JS & PHP**
 
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/)
-
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/)
+- 📄 Know about my experiences and contact me on [LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/)
 
 
 ### 👨‍💻 Languages, frameworks, libraries & tools
