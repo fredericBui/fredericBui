@@ -29,6 +29,26 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uczljmxt52lht3v7z4vqytkg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uczljmxt52lht3v7z4vqytkg" height="30" width="40" /></a>
 </p>
 
+## 📺 Latest YouTube videos
+
+<!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
+
+<!-- prettier-ignore-start -->
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Automatically Deploy to Fly.io with GitHub Actions](https://ytcards.demolab.com/?id=6u9BrDaSHJc&title=Automatically+Deploy+to+Fly.io+with+GitHub+Actions&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312 "Automatically Deploy to Fly.io with GitHub Actions")](https://www.youtube.com/watch?v=6u9BrDaSHJc)
+[![Hosting a Python Discord Bot for Free with Fly.io](https://ytcards.demolab.com/?id=J7Fm7MdZn_E&title=Hosting+a+Python+Discord+Bot+for+Free+with+Fly.io&lang=en&timestamp=1661708747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=403 "Hosting a Python Discord Bot for Free with Fly.io")](https://www.youtube.com/watch?v=J7Fm7MdZn_E)
+[![Making a Wordle Clone Discord Bot with Python (Nextcord)](https://ytcards.demolab.com/?id=0p_eQGKFY3I&title=Making+a+Wordle+Clone+Discord+Bot+with+Python+%28Nextcord%29&lang=en&timestamp=1643900217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=2115 "Making a Wordle Clone Discord Bot with Python (Nextcord)")](https://www.youtube.com/watch?v=0p_eQGKFY3I)
+[![Run Open Source Code in Seconds with GitPod](https://ytcards.demolab.com/?id=Mt_Bsj6K9Lw&title=Run+Open+Source+Code+in+Seconds+with+GitPod&lang=en&timestamp=1642108413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=578 "Run Open Source Code in Seconds with GitPod")](https://www.youtube.com/watch?v=Mt_Bsj6K9Lw)
+[![Custom Help Commands [#2] Select Menus - Python Discord Bot](https://ytcards.demolab.com/?id=xsA5QAkr-04&title=Custom+Help+Commands+%5B%232%5D+Select+Menus+-+Python+Discord+Bot&lang=en&timestamp=1633051808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1188 "Custom Help Commands [#2] Select Menus - Python Discord Bot")](https://www.youtube.com/watch?v=xsA5QAkr-04)
+[![Custom Help Commands [#1] Embeds - Python Discord Bot](https://ytcards.demolab.com/?id=TzR8At0SFQI&title=Custom+Help+Commands+%5B%231%5D+Embeds+-+Python+Discord+Bot&lang=en&timestamp=1632947582&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1245 "Custom Help Commands [#1] Embeds - Python Discord Bot")](https://www.youtube.com/watch?v=TzR8At0SFQI)
+<!-- END YOUTUBE-CARDS -->
+<!-- prettier-ignore-end -->
+
+<p>📺 Get YouTube Cards for your profile at <a href="https://github.com/DenverCoder1/github-readme-youtube-cards">DenverCoder1/github-readme-youtube-cards</a></p>
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
+
+
 ### 👨‍💻 Programming and markup languages
 
 <p>
