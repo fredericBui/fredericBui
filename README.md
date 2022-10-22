@@ -69,10 +69,12 @@
 
 <div align="center">
 <h3>Random gallery</h3>
-<img src="https://picsum.photos/seed/sun/300"/>
     <div display="flex">
-        <img src="https://picsum.photos/seed/cloud/150"/>
-        <img src="https://picsum.photos/seed/thunder/150"/>
+        <img src="https://picsum.photos/seed/sun/600"/>
+        <div>
+            <img src="https://picsum.photos/seed/cloud/300"/>
+            <img src="https://picsum.photos/seed/thunder/300"/>
+        </div>
     </div>
 </div>
 
