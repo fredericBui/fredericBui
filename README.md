@@ -51,8 +51,8 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
-    <img src = "https://github-readme-stats.vercel.app/api?username=fredericbui&show_icons=true&theme=dark&hide_border=true" width = 500>
-    <img src = "https://github-readme-streak-stats.herokuapp.com?user=fredericbui&theme=dark&hide_border=true" width = 500>
+    <img src = "https://github-readme-stats.vercel.app/api?username=fredericbui&show_icons=true&theme=dark&hide_border=true" width = 400>
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=fredericbui&theme=dark&hide_border=true" width = 400>
   </div>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=fredericbui&show_icons=true&locale=en&layout=compact" alt="fredericbui" /> 
   
@@ -69,7 +69,7 @@
     <div display="flex">
         <img src="https://picsum.photos/seed/sun/300"/>
         <div>
-            <img src="https://picsum.photos/seed/cloud/150"/>
+            <img src="https://picsum.photos/seed/cloud/150" />
             <img src="https://picsum.photos/seed/thunder/150" />
         </div>
     </div>
