@@ -72,44 +72,13 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-
-    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredericbui&show_icons=true&locale=en&layout=compact" alt="fredericbui" />
-    </p>
-
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredericbui&show_icons=true&locale=en&layout=compact" alt="fredericbui" /></p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredericbui&show_icons=true&locale=en" alt="fredericbui" /></p>
-
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredericbui&" alt="fredericbui" /></p>
-    
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="DenverCoder1's Github Stats" src="https://fredericbui-github-readme-stats.vercel.app/api/?username=fredericbui&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-    </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="fredericbui's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericbui&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#856](https://github.com/nextcord/nextcord/issues/856) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 💪 Opened PR [#857](https://github.com/nextcord/nextcord/pull/857) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🎉 Merged PR [#37](https://github.com/DenverCoder1/unicode-formatter/pull/37) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-4. ❗️ Opened issue [#39](https://github.com/DenverCoder1/unicode-formatter/issues/39) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-5. ❗️ Opened issue [#38](https://github.com/DenverCoder1/unicode-formatter/issues/38) in [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter)
-    <!--END_SECTION:activity-->
-    </details>
-
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredericbui&show_icons=true&locale=en&layout=compact" alt="fredericbui" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredericbui&show_icons=true&locale=en" alt="fredericbui" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredericbui&" alt="fredericbui" /></p>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=fredericbui&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
