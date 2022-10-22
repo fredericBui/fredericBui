@@ -15,7 +15,13 @@
 💬 Ask me about **Symfony, React, JS & PHP** <br/>
 📄 Know about my experiences and contact me on [LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/)
 
-
+<details> 
+    <summary>💻 Algorythm solver </summary>
+    <a href="https://www.codewars.com/users/fredericBui">
+        <img src="https://www.codewars.com/users/fredericBui/badges/large?logo=true">
+    </a>  
+</details>
+    
 ### 👨‍💻 Languages, frameworks, libraries & tools
 
 <p>
@@ -49,7 +55,7 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>⚡ GitHub Profile Stats</summary>
   <div>
     <img src = "https://github-readme-stats.vercel.app/api?username=fredericbui&show_icons=true&theme=onedark&hide_border=true" width = 400>
     <img src = "https://github-readme-streak-stats.herokuapp.com?user=fredericbui&theme=dark&hide_border=true"  width = 400>
