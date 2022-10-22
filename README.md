@@ -68,8 +68,10 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=fredericbui&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <div align="center">
-<h3>Refresh this page to see a new picture</h3>
-<img src="https://source.unsplash.com/random/300x200"/>
+<h3>Random gallery</h3>
+<img src="https://picsum.photos/seed/sun/300"/>
+<img src="https://picsum.photos/seed/cloud/300"/>
+<img src="https://picsum.photos/seed/thunder/300"/>
 </div>
 
 <p align="center">
