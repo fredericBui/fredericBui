@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/fredericBui">Frédéric Bui</><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<div align="center">
+<h1>Hi, I'm <a href="https://github.com/fredericBui">Frédéric Bui</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
+
 <h3 align="center">I'm a web developer interest in web3</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredericbui&label=Profile%20views&color=0e75b6&style=flat" alt="fredericbui" /> </p>
