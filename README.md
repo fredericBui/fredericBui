@@ -8,17 +8,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=5000&lines=I'm+a+web+developer+interest+in+web3+!" alt="Typing SVG" /></a>
 </h3>
 
-- 🔭 I’m currently working on [an non-profit-project](https://github.com/coin-rise)
-
-- 🌱 I’m currently learning **Kotlin & Swift**
-
-- 🤝 I’m looking to collaborate on **web 3 project**
-
-- 👨‍💻 All of my projects are available at [https://from-js.fr/](https://from-js.fr/)
-
-- 💬 Ask me about **Symfony, JS & PHP**
-
-- 📄 Know about my experiences and contact me on [LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/)
+🔭 I’m currently working on [an non-profit-project](https://github.com/coin-rise) <br/>
+🌱 I’m learning **Kotlin & Swift** <br/>
+🤝 I’m looking to collaborate on **web 3 project** <br/>
+👨‍💻 All of my projects are available at [https://from-js.fr/](https://from-js.fr/) <br/>
+💬 Ask me about **Symfony, JS & PHP** <br/>
+📄 Know about my experiences and contact me on [LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/)
 
 
 ### 👨‍💻 Languages, frameworks, libraries & tools
