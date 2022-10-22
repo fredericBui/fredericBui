@@ -3,41 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredericbui&label=Profile%20views&color=0e75b6&style=flat" alt="fredericbui" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredericbui" alt="fredericbui" /></a> </p>
-
 - 🔭 I’m currently working on [an non-profit-project](https://github.com/coin-rise)
 
 - 🌱 I’m currently learning **Kotlin & Swift**
 
 - 👯 I’m looking to collaborate on **web 3 project**
 
-- 🤝 I’m looking for help with **mobile application development**
-
 - 👨‍💻 All of my projects are available at [https://from-js.fr/](https://from-js.fr/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/)
 
 - 💬 Ask me about **Symfony, JS & PHP**
 
 - 📫 How to reach me **https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/frédéric-bui-a20084a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frédéric-bui-a20084a4" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uczljmxt52lht3v7z4vqytkg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uczljmxt52lht3v7z4vqytkg" height="30" width="40" /></a>
-</p>
-
-## 📺 Latest YouTube videos
-
-<!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
-
-<!-- prettier-ignore-start -->
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Test](https://ytcards.demolab.com/?id=6u9BrDaSHJc&title=Automatically+Deploy+to+Fly.io+with+GitHub+Actions&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312 "Test")](https://www.youtube.com/watch?v=6u9BrDaSHJc)
-<!-- END YOUTUBE-CARDS -->
-<!-- prettier-ignore-end -->
 
 
 ### 👨‍💻 Programming and markup languages
