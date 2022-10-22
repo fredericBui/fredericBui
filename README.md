@@ -50,11 +50,13 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredericbui&show_icons=true&locale=en&layout=compact" alt="fredericbui" /></p>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredericbui&show_icons=true&locale=en" alt="fredericbui" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredericbui&" alt="fredericbui" /></p>
-  <br/>
+  <div>
+    <img src = "https://github-readme-stats.vercel.app/api?username=fredericbui&show_icons=true&theme=dark&hide_border=true" >
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=fredericbui&theme=dark&hide_border=true" >
+  </div>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=fredericbui&show_icons=true&locale=en&layout=compact" alt="fredericbui" /> 
+  
+
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
