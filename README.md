@@ -35,13 +35,9 @@
 
 <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Automatically Deploy to Fly.io with GitHub Actions](https://ytcards.demolab.com/?id=6u9BrDaSHJc&title=Automatically+Deploy+to+Fly.io+with+GitHub+Actions&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312 "Automatically Deploy to Fly.io with GitHub Actions")]([https://www.youtube.com/watch?v=6u9BrDaSHJc](https://www.youtube.com/watch?v=y9kT5W3gUi4))
+[![Test](https://ytcards.demolab.com/?id=6u9BrDaSHJc&title=Automatically+Deploy+to+Fly.io+with+GitHub+Actions&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312 "Automatically Deploy to Fly.io with GitHub Actions")]([https://www.youtube.com/watch?v=6u9BrDaSHJc](https://www.youtube.com/watch?v=y9kT5W3gUi4))
 <!-- END YOUTUBE-CARDS -->
 <!-- prettier-ignore-end -->
-
-<p>📺 Get YouTube Cards for your profile at <a href="https://github.com/DenverCoder1/github-readme-youtube-cards">DenverCoder1/github-readme-youtube-cards</a></p>
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
 
 
 ### 👨‍💻 Programming and markup languages
