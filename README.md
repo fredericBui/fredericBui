@@ -9,7 +9,7 @@
 </h3>
 
 🔭 I’m currently working on [an non-profit-project](https://github.com/coin-rise) <br/>
-🌱 I’m learning **Kotlin & Swift** <br/>
+🌱 I’m learning **Kotlin & UX design** <br/>
 🤝 I’m looking to collaborate on **web 3 project** <br/>
 👨‍💻 All of my projects are available at [https://from-js.fr/](https://from-js.fr/) <br/>
 💬 Ask me about **Symfony, JS & PHP** <br/>
