@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=fredericbui&label=Profile%20views&color=0e75b6&style=flat" alt="fredericbui" /> </p>
+
 <div align="center">
 <h1>Hi, I'm <a href="https://github.com/fredericBui">Frédéric Bui</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
@@ -5,8 +7,6 @@
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=5000&lines=I'm+a+web+developer+interest+in+web3+!" alt="Typing SVG" /></a>
 </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fredericbui&label=Profile%20views&color=0e75b6&style=flat" alt="fredericbui" /> </p>
 
 - 🔭 I’m currently working on [an non-profit-project](https://github.com/coin-rise)
 
