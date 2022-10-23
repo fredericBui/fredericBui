@@ -1,4 +1,4 @@
-<img src="/banner.png" />
+<img src="/Banner.gif" />
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=fredericbui&label=Profile%20views&color=0e75b6&style=flat" alt="fredericbui" /> </p>
 
