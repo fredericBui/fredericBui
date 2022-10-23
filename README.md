@@ -2,16 +2,16 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=fredericbui&label=Profile%20views&color=0e75b6&style=flat" alt="fredericbui" /> </p>
 
-<h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=5000&lines=Hi,+I'm+interest+in+web3+projects+!" alt="Typing SVG" /></a>
-</h3>
-
 🔭 I’m currently working on [an non-profit-project](https://github.com/coin-rise) <br/>
 🌱 I’m learning **Kotlin & UX design** <br/>
 🤝 I’m looking to collaborate on **web 3 project** <br/>
 👨‍💻 All of my projects are available at [https://from-js.fr/](https://from-js.fr/) <br/>
 💬 Ask me about **Symfony, React, JS & PHP** <br/>
 📄 Know about my experiences and contact me on [LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/)
+
+<h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=5000&lines=I'm+interest+in+web3+projects+!" alt="Typing SVG" /></a>
+</h3>
 
 <details> 
     <summary>💻 Algorythm solver </summary>
