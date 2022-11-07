@@ -69,17 +69,6 @@
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=fredericbui&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<div align="center">
-<h3>Random gallery</h3>
-    <div display="flex">
-        <img src="https://picsum.photos/seed/sun/300"/>
-        <div>
-            <img src="https://picsum.photos/seed/cloud/150" />
-            <img src="https://picsum.photos/seed/thunder/150" />
-        </div>
-    </div>
-</div>
-
 <p align="center">
     <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
