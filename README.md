@@ -18,7 +18,12 @@
     </br>
     <a href="https://www.codewars.com/users/fredericBui">
         <img src="https://www.codewars.com/users/fredericBui/badges/small">
-    </a>  
+    </a>
+    <p>
+    </br>
+    <a href="https://www.codingame.com/profile/31cdb618bb23de640e3be7ac090bc9735571815">
+        <img src="https://programisto.fr/wp-content/uploads/2022/04/Entrai%CC%82nement-gratuit-Codingame-Logo-Programisto.png" width="150"> <b>Level 3</b>
+    </a>
 </details>
     
 ### 👨‍💻 Languages, frameworks, libraries & tools
