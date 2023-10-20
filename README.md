@@ -3,13 +3,13 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=fredericbui&label=Profile%20views&color=0e75b6&style=flat" alt="fredericbui" /> </p>
 
 🌱 I’m learning **Ruby & Rails** <br/>
-🤝 I’m looking to collaborate on **web 3 project** <br/>
+🤝 I’m looking to collaborate on **hight value project** <br/>
 👨‍💻 All of my projects are available at [https://fredericbui.github.io/](https://fredericbui.github.io/) <br/>
 💬 Ask me about **Symfony, React, JS & PHP** <br/>
 📄 Know about my experiences and contact me on [LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/)
 
 <h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=5000&lines=I'm+interest+in+web3+projects+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=5000&lines=I'm+interest+in+hight+value+projects+!" alt="Typing SVG" /></a>
 </h3>
 
 <details> 
