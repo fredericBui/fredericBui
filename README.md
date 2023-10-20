@@ -4,7 +4,7 @@
 
 🌱 I’m learning **Ruby & Rails** <br/>
 🤝 I’m looking to collaborate on **web 3 project** <br/>
-👨‍💻 All of my projects are available at [https://from-js.fr/](https://from-js.fr/) <br/>
+👨‍💻 All of my projects are available at [https://fredericbui.github.io/](https://fredericbui.github.io/) <br/>
 💬 Ask me about **Symfony, React, JS & PHP** <br/>
 📄 Know about my experiences and contact me on [LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/)
 
