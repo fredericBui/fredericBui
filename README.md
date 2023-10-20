@@ -5,7 +5,7 @@
 🌱 I’m learning **Ruby & Rails** <br/>
 🤝 I’m looking to collaborate on **hight value project** <br/>
 👨‍💻 All of my projects are available at [https://fredericbui.github.io/](https://fredericbui.github.io/) <br/>
-💬 Ask me about **Symfony, React, JS & PHP** <br/>
+💬 Ask me about **Symfony, Ruby, JS & PHP** <br/>
 📄 Know about my experiences and contact me on [LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-bui-a20084a4/)
 
 <h3>
