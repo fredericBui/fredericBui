@@ -11,30 +11,17 @@
 <h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=5000&lines=I'm+interest+in+hight+value+projects+!" alt="Typing SVG" /></a>
 </h3>
-
-<details> 
-    <summary>💻 Algorythm solver </summary>
-    </br>
-    <a href="https://www.codewars.com/users/fredericBui">
-        <img src="https://www.codewars.com/users/fredericBui/badges/small">
-    </a>
-    <p>
-    </br>
-    <a href="https://www.codingame.com/profile/31cdb618bb23de640e3be7ac090bc9735571815">
-        <img src="https://programisto.fr/wp-content/uploads/2022/04/Entrai%CC%82nement-gratuit-Codingame-Logo-Programisto.png" width="150"> <b>Level 4</b>
-    </a>
-</details>
     
 ### 👨‍💻 Languages XP
 
 <p>
+    Capital Energy - <a href="https://plateforme.capitalenergy.fr/" target="_blank">https://plateforme.capitalenergy.fr/</a> - Private repository
+    <br>
     <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a>
     <a href="#"><img alt="Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></a>
     <a href="#"><img alt="PostgresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-<br>
-    <a href="https://plateforme.capitalenergy.fr/" target="_blank">https://plateforme.capitalenergy.fr/</a> - Capital Energy - Private repository
 </p>
 <p>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> Next.JS <br>
@@ -61,6 +48,19 @@
     <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 </p>
+
+<details> 
+    <summary>💻 Algorythm solver </summary>
+    </br>
+    <a href="https://www.codewars.com/users/fredericBui">
+        <img src="https://www.codewars.com/users/fredericBui/badges/small">
+    </a>
+    <p>
+    </br>
+    <a href="https://www.codingame.com/profile/31cdb618bb23de640e3be7ac090bc9735571815">
+        <img src="https://programisto.fr/wp-content/uploads/2022/04/Entrai%CC%82nement-gratuit-Codingame-Logo-Programisto.png" width="150"> <b>Level 4</b>
+    </a>
+</details>
 
 ## 📊 Github stats
 
