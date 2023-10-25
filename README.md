@@ -29,15 +29,15 @@
 
 <p>
     <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a><br>
-    <a href="https://plateforme.capitalenergy.fr/">https://plateforme.capitalenergy.fr/</a> - Private repository
+    <a href="https://plateforme.capitalenergy.fr/" target="_blank">https://plateforme.capitalenergy.fr/</a> - Private repository
 </p>
 <p>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a><br>
-    <a href="https://www.fitnessnewpower.com/">https://www.fitnessnewpower.com/</a> - Private repository 
+    <a href="https://www.fitnessnewpower.com/" target="_blank">https://www.fitnessnewpower.com/</a> - Private repository 
 </p>
 <p>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a><br>
-    <a href="https://www.vertical-pro-media.com/">https://www.vertical-pro-media.com/</a> - Private repository
+    <a href="https://www.vertical-pro-media.com/" target="_blank">https://www.vertical-pro-media.com/</a> - Private repository
 </p>
 
 ### Database
