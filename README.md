@@ -49,7 +49,7 @@
 <p>
     <b>For my 8 years old nefew</b><br>
     <a href="https://syllabes-app.vercel.app/" target="_blank">https://syllabes-app.vercel.app/</a> -
-    <a href="https://github.com/fredericBui/syllabes-app">https://github.com/fredericBui/syllabes-app</a>)
+    <a href="https://github.com/fredericBui/syllabes-app">Repository</a>
     <br>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 </p>
