@@ -34,15 +34,15 @@
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <br>
-    <a href="https://plateforme.capitalenergy.fr/" target="_blank">https://plateforme.capitalenergy.fr/</a> - 2023 Capital Energy - Private repository
+    <a href="https://plateforme.capitalenergy.fr/" target="_blank">https://plateforme.capitalenergy.fr/</a> - Capital Energy - Private repository
 </p>
 <p>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a><br>
-    <a href="https://www.fitnessnewpower.com/" target="_blank">https://www.fitnessnewpower.com/</a> - 2023 Fitness New Power - Private repository 
+    <a href="https://www.fitnessnewpower.com/" target="_blank">https://www.fitnessnewpower.com/</a> - Fitness New Power - Private repository 
 </p>
 <p>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a><br>
-    <a href="https://www.vertical-pro-media.com/" target="_blank">https://www.vertical-pro-media.com/</a> - 2022 Vertical Pro Media - Private repository
+    <a href="https://www.vertical-pro-media.com/" target="_blank">https://www.vertical-pro-media.com/</a> - Vertical Pro Media - Private repository
 </p>
 
 ### Database
