@@ -16,7 +16,7 @@
 
 <p>
     Capital Energy - <a href="https://plateforme.capitalenergy.fr/" target="_blank">https://plateforme.capitalenergy.fr/</a> - Private repository
-    <br>
+    <br><br>
     <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a>
     <a href="#"><img alt="Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></a>
     <a href="#"><img alt="PostgresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
@@ -24,20 +24,21 @@
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 </p>
 <p>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> Next.JS <br>
-    <a href="https://www.fitnessnewpower.com/" target="_blank">https://www.fitnessnewpower.com/</a> - Fitness New Power - Private repository 
+    Fitness New Power - <a href="https://www.fitnessnewpower.com/" target="_blank">https://www.fitnessnewpower.com/</a> - Private repository 
+    <br><br>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> Next.JS
 </p>
 <p>
+    Vertical Pro Media - <a href="https://www.vertical-pro-media.com/" target="_blank">https://www.vertical-pro-media.com/</a> - Private repository
+    <br><br>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <br>
-    <a href="https://www.vertical-pro-media.com/" target="_blank">https://www.vertical-pro-media.com/</a> - Vertical Pro Media - Private repository
 </p>
 <p>
+    Vertical Pro Media - <a href="https://vertical-project.com/" target="_blank">https://vertical-project.com/</a> - Private repository
+    <br><br>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <br>
-    <a href="https://vertical-project.com/" target="_blank">https://vertical-project.com/</a> - Vertical Pro Media - Private repository
 </p>
 
 ### Tools
