@@ -47,7 +47,7 @@
 
 ### 👨‍💻 Sides projects
 <p>
-    <b>For my 8 years old nefew</b><br>
+    <b>For my 8 years old nephew</b><br>
     <a href="https://syllabes-app.vercel.app/" target="_blank">https://syllabes-app.vercel.app/</a> -
     <a href="https://github.com/fredericBui/syllabes-app">Repository</a>
     <br>
