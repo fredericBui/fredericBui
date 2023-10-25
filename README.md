@@ -28,7 +28,7 @@
 ### 👨‍💻 Languages XP
 
 <p>
-    <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a>
+    <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a><br>
     <a href="https://plateforme.capitalenergy.fr/">https://plateforme.capitalenergy.fr/</a> - Private repository
 </p>
 <p>
