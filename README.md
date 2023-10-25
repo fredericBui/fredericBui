@@ -32,20 +32,12 @@
     <a href="https://plateforme.capitalenergy.fr/">https://plateforme.capitalenergy.fr/</a> - Private repository
 </p>
 <p>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <ul>
-        <li>
-            <a href="https://www.fitnessnewpower.com/">https://www.fitnessnewpower.com/</a> - Private repository 
-        </li>
-    </ul>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a><br>
+    <a href="https://www.fitnessnewpower.com/">https://www.fitnessnewpower.com/</a> - Private repository 
 </p>
 <p>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <ul>
-        <li>
-            <a href="https://www.vertical-pro-media.com/">https://www.vertical-pro-media.com/</a> - Private repository
-        </li>
-    </ul>
+    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a><br>
+    <a href="https://www.vertical-pro-media.com/">https://www.vertical-pro-media.com/</a> - Private repository
 </p>
 
 ### Database
