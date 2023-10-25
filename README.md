@@ -31,13 +31,27 @@
     <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a>
     <ul>
         <li>
-            <a href="https://plateforme.capitalenergy.fr/">https://plateforme.capitalenergy.fr/</a>
+            <a href="https://plateforme.capitalenergy.fr/">https://plateforme.capitalenergy.fr/</a> - Private repository
         </li>
     </ul>
 </p>
 <p>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <ul>
+        <li>
+            <a href="https://plateforme.capitalenergy.fr/">https://plateforme.capitalenergy.fr/</a>
+        </li>
+    </ul>
+</p>
+<p>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+    <ul>
+        <li>
+            <a href="https://plateforme.capitalenergy.fr/">https://plateforme.capitalenergy.fr/</a>
+        </li>
+    </ul>
+</p>
+<p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 </p>
