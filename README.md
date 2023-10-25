@@ -29,11 +29,7 @@
 
 <p>
     <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a>
-    <ul>
-        <li>
-            <a href="https://plateforme.capitalenergy.fr/">https://plateforme.capitalenergy.fr/</a> - Private repository
-        </li>
-    </ul>
+    <a href="https://plateforme.capitalenergy.fr/">https://plateforme.capitalenergy.fr/</a> - Private repository
 </p>
 <p>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
