@@ -48,7 +48,7 @@
 ### 👨‍💻 Sides projects
 <p>
     <b>For my 8 years old nefew</b><br>
-    <a href="https://syllabes-app.vercel.app/" target="_blank">https://syllabes-app.vercel.app/</a> - Private repository
+    <a href="https://syllabes-app.vercel.app/" target="_blank">https://syllabes-app.vercel.app/</a> - [Repository](https://github.com/fredericBui/syllabes-app)
     <br>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 </p>
