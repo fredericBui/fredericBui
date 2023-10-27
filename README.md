@@ -12,7 +12,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=5000&lines=I'm+interest+in+hight+value+projects+!" alt="Typing SVG" /></a>
 </h3>
 
-### 👨‍💻 Top 3 projects i worked on
+### 👨‍💻 Projects i worked on (top 3)
 
 <p>
     <b>Capital Energy</b><br>
