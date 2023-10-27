@@ -29,6 +29,7 @@
     <a href="https://www.fitnessnewpower.com/" target="_blank">https://www.fitnessnewpower.com/</a> - Private repository 
     <br>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+     Next.JS
 </p>
 <p>
     <b>Vertical Pro Media</b><br>
@@ -41,8 +42,8 @@
     <b>Vertical Pro Media</b><br>
     <a href="https://vertical-project.com/" target="_blank">https://vertical-project.com/</a> - Private repository
     <br>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
 </p>
 
 ### 👨‍💻 Sides projects
