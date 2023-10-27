@@ -12,7 +12,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=5000&lines=I'm+interest+in+hight+value+projects+!" alt="Typing SVG" /></a>
 </h3>
 
-### 👨‍💻 Projects i worked on
+### 👨‍💻 Top 3 projects i worked on
 
 <p>
     <b>Capital Energy</b><br>
@@ -30,13 +30,6 @@
     <br>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Next.JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
-</p>
-<p>
-    <b>Vertical Pro Media</b><br>
-    <a href="https://www.vertical-pro-media.com/" target="_blank">https://www.vertical-pro-media.com/</a> - Private repository
-    <br>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </p>
 <p>
     <b>Vertical Pro Media</b><br>
