@@ -35,7 +35,7 @@
     <a href="https://www.vertical-pro-media.com/" target="_blank">https://www.vertical-pro-media.com/</a> - Private repository
     <br>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </p>
 <p>
     <b>Vertical Pro Media</b><br>
@@ -51,7 +51,7 @@
     <a href="https://syllabes-app.vercel.app/" target="_blank">https://syllabes-app.vercel.app/</a> -
     <a href="https://github.com/fredericBui/syllabes-app">Repository</a>
     <br>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </p>
 
 <details> 
