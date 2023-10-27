@@ -34,7 +34,7 @@
     <b>Vertical Pro Media</b><br>
     <a href="https://www.vertical-pro-media.com/" target="_blank">https://www.vertical-pro-media.com/</a> - Private repository
     <br>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </p>
 <p>
@@ -42,7 +42,7 @@
     <a href="https://vertical-project.com/" target="_blank">https://vertical-project.com/</a> - Private repository
     <br>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 </p>
 
 ### 👨‍💻 Sides projects
