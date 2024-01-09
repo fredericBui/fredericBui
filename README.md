@@ -2,7 +2,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=fredericbui&label=Profile%20views&color=0e75b6&style=flat" alt="fredericbui" /> </p>
 
-🌱 I’m learning **Ruby & Rails** <br/>
+🌱 I’m learning **Svelte** <br/>
 🤝 I’m looking to collaborate on **hight value project** <br/>
 👨‍💻 All of my projects are available at [https://fredericbui.github.io/](https://fredericbui.github.io/) <br/>
 💬 Ask me about **Symfony, Ruby, JS & PHP** <br/>
